@@ -12,4 +12,4 @@ TestNG is an open source automated testing framework where NG means NextGenerati
 - JDK 1.8
 - TestNG 6.8.5
 
-**for more advance use of unit testing you can reffer to [Simple Spring Hibernate Application Using Annotations](https://github.com/dilanka92/Spring4Hibernate)**
+:point_right: **for more advance use of unit testing you can reffer to [Simple Spring Hibernate Application Using Annotations](https://github.com/dilanka92/Spring4Hibernate)**
