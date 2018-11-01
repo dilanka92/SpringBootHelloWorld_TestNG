@@ -29,7 +29,6 @@ public class SpringBootHelloWorldTests extends AbstractTestNGSpringContextTests 
     }
 
     @BeforeMethod
-//    @Test
     public void checkServer() throws Exception {
         System.out.println("checkServer is OK");
         mockMvc.perform(get("/employee")).andExpect(status().isOk());
