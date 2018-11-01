@@ -1,4 +1,4 @@
-# Spring Boot + TestNG Unit Test Simple Example
+:leaves: # Spring Boot + TestNG Unit Test Simple Example
 
 In this project i have wrote test cases for a Spring Boot Application using TestNG.
 TestNG is a testing framework inspired from JUnit and NUnit. 
