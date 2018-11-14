@@ -1,4 +1,4 @@
-package com.dilanka.test;
+package com.dilanka.test.annotations;
 
 import com.dilanka.controllers.Calculator;
 import org.testng.Assert;

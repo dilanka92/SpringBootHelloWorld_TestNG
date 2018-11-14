@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestAll">
+
+    <test name="order">
+        <classes>
+            <class name="com.dilanka.test.annotations.suite.TestConfig"/>
+            <class name="com.dilanka.test.annotations.suite.TestOrder"/>
+        </classes>
+    </test>
+
+    <test name="database">
+        <classes>
+            <class name="com.dilanka.test.annotations.suite.TestConfig"/>
+            <class name="com.dilanka.test.annotations.suite.TestDatabase"/>
+        </classes>
+    </test>
+
+</suite>
